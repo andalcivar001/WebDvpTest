@@ -1,0 +1,50 @@
+@if(isLoading){
+<div class="spinner-overlay">
+  <mat-spinner></mat-spinner>
+</div>
+}
+<div class="body">
+  <form style="width: 450px">
+    <div class="login">
+      <img src="../../assets/img/todo.png" alt="" width="60%" height="80%" />
+      <h1 class="h3 mb-3 fw-normal">Iniciar sesión</h1>
+      <mat-form-field class="ancho" appearance="outline">
+        <mat-label>Usuario</mat-label>
+        <input matInput [(ngModel)]="usuario" name="usuario" />
+      </mat-form-field>
+      <mat-form-field class="ancho" appearance="outline">
+        <mat-label>Password</mat-label>
+        <input
+          matInput
+          [(ngModel)]="password"
+          name="password"
+          type="password"
+        />
+      </mat-form-field>
+
+      <br />
+
+      <button
+        (click)="onClickIngresar()"
+        class="ancho"
+        mat-raised-button
+        mat-button
+        color="primary"
+      >
+        INGRESAR
+      </button>
+      <br />
+      <br />
+      <div>
+        <!-- Enlace que abrirá el modal -->
+        <a
+          href="javascript:void(0);"
+          (click)="openDialog()"
+          style="text-decoration: underline; color: #3f51b5"
+        >
+          Crear nuevo usuario ?
+        </a>
+      </div>
+    </div>
+  </form>
+</div>

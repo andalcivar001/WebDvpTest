@@ -1,0 +1,15 @@
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\bin\Debug\net8.0\WebDvpDatabase.deps.json
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\bin\Debug\net8.0\WebDvpDatabase.runtimeconfig.json
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\bin\Debug\net8.0\WebDvpDatabase.dll
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\bin\Debug\net8.0\WebDvpDatabase.pdb
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\WebDvpDatabase.csproj.AssemblyReference.cache
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\WebDvpDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\WebDvpDatabase.AssemblyInfoInputs.cache
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\WebDvpDatabase.AssemblyInfo.cs
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\WebDvpDatabase.csproj.CoreCompileInputs.cache
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\WebDvpDatabase.sourcelink.json
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\WebDvpDatabase.dll
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\refint\WebDvpDatabase.dll
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\WebDvpDatabase.pdb
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\WebDvpDatabase.genruntimeconfig.cache
+C:\proyectosWeb\DoubleVPartner\backend\WebDvpApi\WebDvpDatabase\obj\Debug\net8.0\ref\WebDvpDatabase.dll

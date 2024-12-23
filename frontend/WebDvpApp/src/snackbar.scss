@@ -1,0 +1,38 @@
+/* styles.scss (o styles.css) */
+
+/* Es importante usar ::ng-deep para que los estilos penetren en los componentes de Angular Material */
+::ng-deep .success-snackbar {
+  .mdc-snackbar__surface {
+    background-color: #4caf50 !important;
+  }
+  .mdc-snackbar__label {
+    color: white !important;
+  }
+  .mat-mdc-button {
+    color: white !important;
+  }
+}
+
+::ng-deep .error-snackbar {
+  .mdc-snackbar__surface {
+    background-color: #f44336 !important;
+  }
+  .mdc-snackbar__label {
+    color: white !important;
+  }
+  .mat-mdc-button {
+    color: white !important;
+  }
+}
+
+::ng-deep .warning-snackbar {
+  .mdc-snackbar__surface {
+    background-color: #ff9800 !important;
+  }
+  .mdc-snackbar__label {
+    color: white !important;
+  }
+  .mat-mdc-button {
+    color: white !important;
+  }
+}

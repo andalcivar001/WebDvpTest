@@ -1,0 +1,20 @@
+# .gitignore en la raíz del repositorio
+
+# Para Angular (frontend)
+frontend/WebDvpApp/node_modules/
+frontend/WebDvpApp/dist/
+frontend/WebDvpApp/npm-debug.log
+
+# Para .NET Core (backend)
+backend/WebDvpApi/bin/
+backend/WebDvpApi/obj/
+backend/WebDvpApi/.vs/
+backend/WebDvpApi/.vscode/
+backend/WebDvpApi/.idea/
+backend/WebDvpApi/*.user
+backend/WebDvpApi/*.userosscache
+backend/WebDvpApi/*.suo
+backend/WebDvpApi/*.userprefs
+
+# Otros archivos generales que suelen ser ignorados
+*.log
